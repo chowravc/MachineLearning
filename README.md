@@ -13,7 +13,7 @@ A collection of my own implementations of neural networks and custom neural netw
 ---
 
 ## References
-Listed here are some useful references for studying neural network-based machine learning. I primarily used
+Listed here are some useful references for studying neural network-based machine learning. I primarily use PyTorch (Facebook) for my neural networks but TensorFlow developed by Google is also very powerful.
 
 ### Machine Learning: Andrew Ng
 
